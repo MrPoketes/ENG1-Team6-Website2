@@ -30,7 +30,7 @@ url: "https://hardgforgifs.github.io" # the base hostname & protocol for your si
 
 # Footer content
 # appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020-2020 Hard G for GIFs.</a>"
+footer_content: "Copyright &copy; 2020 Hard G for GIFs.</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter

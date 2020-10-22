@@ -12,11 +12,16 @@ description: "Useful links for team 10"
 
 We are attempting to make a game called "York Dragon Boat Racing 2021"
 
+[Documentation](docs){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHub](https://github.com/hardgforgifs){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
 ## Useful links
 
 - [Game repo](https://github.com/hardgforgifs/game)
 - [Website repo](https://github.com/hardgforgifs/hardgforgifs.github.io)
 - [Team drive public folder](https://drive.google.com/drive/folders/1cAkmU4waNDv5wJghdtnq-_oiVVZdnb_f?usp=sharing)
+
 
 ## Contact
 
