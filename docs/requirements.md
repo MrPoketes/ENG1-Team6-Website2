@@ -5,14 +5,20 @@ parent: Documentation
 ---
 
 # Requirements
+{: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
+</details>
 
-# Introduction
+---
+
+## Introduction
 
 The requirements that we have defined here where based on a few factors. So we first analysed the assessment product brief and we used the specific features as a base. Then we expanded on them, discussing as a group for how to implement this ensuring that each requirement was feasible and achievable.
 
@@ -20,7 +26,11 @@ That was our user requirements drafted, we then set out to make the system requi
 
 After these drafts had been completed we organised a meeting with the customer so they could review our proposed requirements and understand how we where going to develop the system. This allowed us to reduce the chance of misinterpretations, clarify what the end product was and resolve any early issues we had. 
 
-# User Requirements
+---
+
+## User Requirements
+
+For each requirement we attempted to capture the stakeholder's intention (these being the specific features that they requested), and a fit criterion that measures how well me reached that intention.
 
 | ID | Description | Priority |
 |-----------------------------|-----------------------------|-----------------------------|
@@ -34,7 +44,9 @@ UR_DAMAGE|Colliding with obstacles damages the boat|High|
 |UR_HUD|Have a clear UI that is easy to understand and see what corresponds to what|High|
 |UR_MENU|The game has a main menu screen|High|
 
-# Functional Requirements
+---
+
+## Functional Requirements
 
 | ID | Description | User Requirements |
 |--------------------------------------|--------------------------------------|--------------------------------------|
@@ -49,8 +61,12 @@ UR_DAMAGE|Colliding with obstacles damages the boat|High|
 |FR_CONTROLS|The player’s movement should be based on the mouse position on the screen|UR_BOAT_CONTROLS|
 |FR_VARIABLE_CONTROLS|The players ability to turn, as well as its speed is based on stamina|UR_BOAT_CONTROLS|
 
-# Non-Functional Requirements
+## Non-Functional Requirements
 
 | ID | Description | User Requirement | Fit criteria |
 |----------------------------------------------------|
 |NFR_FAST_CONTROLS|When inputting the direction, response from the game should be instant|UR_BOAT_CONTROLS|In <0.5 seconds response to an input, if not lower|
+
+## Constraint Requirements
+
+We had to adhere to two restraints our stakeholders, the customer and The University of York Communications Office. We are required to market and sell our came to the stakeholders ensuring it is playable and enjoyable by the ENG1 team.
