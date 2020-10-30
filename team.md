@@ -16,10 +16,6 @@ These are the members working on the project, feel free to either get in touch w
 
 [github](https://github.com/DragosStoican)
 
-## Jack Gerhard
-
-[github]()
-
 ## Rhys Milling
 
 [github](https://github.com/rmil)

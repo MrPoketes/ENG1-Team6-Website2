@@ -20,10 +20,10 @@ parent: Documentation
 
 ## Abstract
 
-We've also used Entity-Component-Systems to help define our game logic.
+To define our architecture, we decided to make a prescriptive model of the final game to help us quickly use a Unified Modeling Language which helped us make a prescriptive model of the final game. 
 
 ---
 
-### Concrete
+## Concrete
 
 To implement this game we decided to use the popular game library `lidgdx` which allows us to rapidly develop a lot of functionality within our game.
