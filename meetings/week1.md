@@ -5,16 +5,5 @@ parent: Meetings
 ---
 
 # Week 1
-{: .no_toc }
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
----
-
+We went through the requirements exploding them out into smaller more manageable tasks. We also talked about potential ways the game would be played, such as controls, mechanics, etc. Main focus was to understand the project. We also created our Google Drive and Discord, to get the team on the same page for everything
