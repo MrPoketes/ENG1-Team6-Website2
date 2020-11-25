@@ -92,6 +92,6 @@ We had to adhere to two restraints our stakeholders, the customer and The Univer
 
 # Bibliography
 
-1. [https://www.guru99.com/functional-vs-non-functional-requirements.html]() (Accessed 24/11/2020)
+1. [https://www.guru99.com/functional-vs-non-functional-requirements.html](https://www.guru99.com/functional-vs-non-functional-requirements.html) (Accessed 24/11/2020)
 
-2. [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=669648]() (Accessed 24/11/2020)
+2. [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=669648](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=669648) (Accessed 24/11/2020)
