@@ -6,13 +6,19 @@ parent: Meetings
 
 # Week 7
 
-Second prototype was complete. Game featured multiple menus, selectable boats, different boats had a simplistic AI implemented. UI branch had been merged so the HUD was now working in game. Game graphics was also updated, which also included boat animations.
+We have everything ready for the 1.0 release of the game, so we focused on bug fixing, revising deliverables, adding code documentation and updating whatever is necessary so the project accurately matches the concrete architecture, including variable names and method names.
 
-Revised the map.
+Furthermore, we have also refactored our deliverables more, working on the requirements where we removed requirements that weren't as relevant anymore, and improved the introduction.
 
-The gantt chart was also improved.
+For the documentation team, the main goal was finishing the risks as well so this required communication with the development team ensuring that we covered as many relevant risks as we could.
 
-Refactored the requirements document.
+In addition, we also planned to improve the graphics, aiming to make it look more like what we have planned for the release version.
+
+Other miscallanious things included:
+
+* Sound design
+* AI development
+* Improved HUD
 
 ![gantt chart](/assets/static/week7.png "Gantt chart")
 
