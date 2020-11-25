@@ -10,6 +10,8 @@ Updated the map again, to include scenery.
 
 Finalising on the documents, going through them to ensure that they are meeting the criteria as much as possible.
 
+![gantt chart](/assets/static/week8.png "Gantt chart")
+
 ## Meeting 12 (23/11/2020)
 
 * Worked on an issue with the countdown timer

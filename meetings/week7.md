@@ -14,6 +14,8 @@ The gantt chart was also improved.
 
 Refactored the requirements document.
 
+![gantt chart](/assets/static/week7.png "Gantt chart")
+
 ## Meeting 10 (17/11/2020)
 
 * Caught up on our individual work

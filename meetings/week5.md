@@ -8,6 +8,9 @@ parent: Meetings
 
 First prototype was done, and we had our first milestone. We then realised we needed slightly more documentation, so we split into two teams to work on documentation over the weekend, then have a meeting and go through all of them.
 
+![gantt chart](/assets/static/week5.png "Gantt chart")
+
+
 ## Meeting 7 (03/11/2020)
 
 * Checked out some documentation
