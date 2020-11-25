@@ -14,7 +14,7 @@ For the documentation team, the main goal was finishing the risks as well so thi
 
 In addition, we also planned to improve the graphics, aiming to make it look more like what we have planned for the release version.
 
-Other miscallanious things included:
+Other miscellaneous things included:
 
 * Sound design
 * AI development

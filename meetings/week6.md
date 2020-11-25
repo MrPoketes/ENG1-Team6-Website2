@@ -8,7 +8,7 @@ parent: Meetings
 
 This week had a lot of our software development efforts come together as we merged multiple branches together and completed a large chunk of the features required. Example of this that where added include:
 * An infinite scrolling background
-* Player lane limites added
+* Player lane limits added
 * Official boats where drafted
 
 ## Meeting 9 (12/11/2020)

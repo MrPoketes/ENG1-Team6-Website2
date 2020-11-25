@@ -12,7 +12,7 @@ description: "Useful links for team 10"
 
 We are attempting to make a game called "York Dragon Boat Racing 2021".
 
-Individual PDF deliverables are available on each document page. Weekly snapshots our available through our meetings.
+Individual PDF deliverables are available on each document page. Weekly snapshots are available through our meetings.
 
 [Documentation](docs){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Meetings](meetings){: .btn .fs-5 .mb-4 .mb-md-0 }
 
