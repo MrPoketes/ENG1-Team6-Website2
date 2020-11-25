@@ -10,14 +10,20 @@ description: "Useful links for team 10"
 
 # ENG1 - Team 10 - Hard G for GIFs
 
-We are attempting to make a game called "York Dragon Boat Racing 2021"
+We are attempting to make a game called "York Dragon Boat Racing 2021".
 
-[Documentation](docs){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHub](https://github.com/hardgforgifs){: .btn .fs-5 .mb-4 .mb-md-0 }
+Individual PDF deliverables are available on each document page. Weekly snapshots our available through our meetings.
 
+[Documentation](docs){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Meetings](meetings){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+## Downloads
+
+[All documentation (.zip)](/assets/deliverables/combined.zip){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Game download (.jar)](https://github.com/hardgforgifs/game/releases/download/1.2/DragonBoatRacing.1.2.jar){: .btn .fs-5 .mb-4 .mb-md-0 }
 ---
 
 ## Useful links
 
+- [GitHub organisation](https://github.com/hardgforgifs)
 - [Game repo](https://github.com/hardgforgifs/game)
 - [Website repo](https://github.com/hardgforgifs/hardgforgifs.github.io)
 - [Team drive public folder](https://drive.google.com/drive/folders/1cAkmU4waNDv5wJghdtnq-_oiVVZdnb_f?usp=sharing)
