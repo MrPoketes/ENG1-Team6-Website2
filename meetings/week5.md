@@ -10,6 +10,7 @@ First prototype was done, and we had our first milestone. We then realised we ne
 
 ![gantt chart](/assets/static/week5.png "Gantt chart")
 
+![game menu draft](/assets/static/menu.png "Game menu draft")
 
 ## Meeting 7 (03/11/2020)
 

@@ -16,6 +16,9 @@ Refactored the requirements document.
 
 ![gantt chart](/assets/static/week7.png "Gantt chart")
 
+![Collision demo](/assets/static/11-09.gif "Collision demo")
+
+
 ## Meeting 10 (17/11/2020)
 
 * Caught up on our individual work
