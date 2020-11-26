@@ -30,8 +30,9 @@ Individual PDF deliverables are available on each document page. Weekly snapshot
 - [Game repo](https://github.com/hardgforgifs/game)
 - [Website repo](https://github.com/hardgforgifs/hardgforgifs.github.io)
 - [Team drive public folder](https://drive.google.com/drive/folders/1cAkmU4waNDv5wJghdtnq-_oiVVZdnb_f?usp=sharing)
+- [Discord team invite](https://discord.gg/KqRXdVzFkw)
 
 
 ## Contact
 
-Either email a team member or use our group email [2020-eng1-team10-group@york.ac.uk](mailto:2020-eng1-team10-group@york.ac.uk)
+Either email a team member, use our group email [2020-eng1-team10-group@york.ac.uk](mailto:2020-eng1-team10-group@york.ac.uk) or reach out through [discord](https://discord.gg/KqRXdVzFkw).
