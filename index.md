@@ -8,7 +8,7 @@ nav_order: 1
 description: "Useful links for team 10"
 ---
 
-# ENG1 - Team 10 - Hard G for GIFs
+# ENG1 - Team 10 - Hard G for GIFs. Project continued by Team 6
 
 We are attempting to make a game called "York Dragon Boat Racing 2021".
 
@@ -22,7 +22,7 @@ Individual PDF deliverables are available on each document page. Weekly snapshot
 
 ## [All deliverables for Assessment 1 (.zip)](../assets/deliverables/combined.zip){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Game download (Assessment 1) (.jar)](https://github.com/hardgforgifs/game/releases/download/1.0.3/DragonBoatRacing.v1.0.3.jar){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-## [All deliverables for Assessment 2(.zip)](../assets/deliverables-new/deliverables.zip){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Game download (Assessment 2) (.jar)](../assets/deliverables-new/game.jar){: .btn .fs-5 .mb-4 .mb-md-0 }
+## [All deliverables for Assessment 2(.zip)](../assets/deliverables-new/Team6-Assessment2.zip){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Game download (Assessment 2) (.jar)](../assets/deliverables-new/game.jar){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## Useful links
 
