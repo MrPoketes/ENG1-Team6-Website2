@@ -6,7 +6,7 @@ parent: Changes
 
 # Continuous Integration
 
-[Deliverable (.pdf)](/assets/deliverables-new/CI2.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Deliverable (.pdf)](../assets/deliverables-new/CI2.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 {: .no_toc }
 
@@ -27,13 +27,13 @@ We have set up our CI to work with VSC (which we are using Github), so when anyo
 
 The continuous integration infrastructure is depicted by the diagram below
 
-![](/assets/static/new/CI2.001.png)
+![](../assets/static/new/CI2.001.png)
 
 After the changes are pushed to the development branch, they are tested by other developers, if everything is working as expected, then the development branch is merged to the production branch, which is the stable branch for use.
 
 Github actions runs a file called gradle.yml, as seen below:
 
-![](/assets/static/new/CI2.002.png)
+![](../assets/static/new/CI2.002.png)
 
 It creates a virtual machine that is running the latest version of ubuntu and executes the given steps.
 

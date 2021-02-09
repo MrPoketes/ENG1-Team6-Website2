@@ -6,7 +6,7 @@ parent: Documentation
 
 # Method selection and planning
 
-[Deliverable (.pdf)](/assets/deliverables/Plan1.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Deliverable (.pdf)](../assets/deliverables/Plan1.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 {: .no_toc }
 
@@ -29,18 +29,21 @@ Gave us the opportunity to focus every sprint by allocating a certain amount of 
 An alternative perhaps, could have been a plan-driven approach. But due to how we work as a group this wouldn’t be nearly as efficient and would handicap our performance. Since our requirements were changing throughout as we better understood the tools we were using, the excessive documentation would be of no use since we could have changed our approach entirely and rendered time loss. If we were working as a larger group or been given a larger scope project, then it would become more appropriate to use. But since the scope isn’t too large it makes agile scrum ideal.
 
 Having all these tools is great, but the main thing that is needed in any project or team is communication. Unfortunately, with COVID-19, there are no real ways to have a lab to work in together in person. And even if we did, it wouldn’t be enough. So we spread our communication across three areas, each being played to their strength:
-* Our online meetings were done through Zoom and were effective for important discussions, not as good documentation.
-* Our instant messaging application, Discord, provided the nice in-between the two extremes, providing both text and voice functionality, and letting you also organise them into channels, which is quite powerful for keeping our communication organised.
-* Our website acted as the long term memory, important information that occurred in the other platforms were eventually merged onto it, So it gave quick access to documentation, meeting minutes and links to our repositories.
+
+- Our online meetings were done through Zoom and were effective for important discussions, not as good documentation.
+- Our instant messaging application, Discord, provided the nice in-between the two extremes, providing both text and voice functionality, and letting you also organise them into channels, which is quite powerful for keeping our communication organised.
+- Our website acted as the long term memory, important information that occurred in the other platforms were eventually merged onto it, So it gave quick access to documentation, meeting minutes and links to our repositories.
 
 To aid development, we took advantage of a couple of tools:
-* Git,  provided version control, the branching functionality allowed features to be developed separately from the stable codebase, then after being safely implemented could be merged back. The commit history is also useful as it made all committed code still accessible even after being deleted. An alternative could be Mercury, which does have a simpler user interface, git has also become ubiquitous in the industry, and provided a better real-world experience.
-* GitHub offers git as a base, but it adds a lot more functionality that makes software development easier. One feature would be the issue system, as it allowed us to convert our system requirements into a trackable object, where we could comment on it, assign it different statuses so we could see how complete the issue is. This integrates excellently with GitHub projects which allows you to put those issues on boards, so we could visualise how each issue has been progressing, who has been assigned, how old, etc. An alternative could be Trello, which does have the card system and lets you transfer it between boards also, but we decided not to adopt it since GitHub allows a much tighter integration with the code, and being able to reference directly and with some provided assistance is very useful.
-* Google Drive, provided collaborative document editing, this was particularly useful since we often did paired work. Also, the version history is useful for being able to retrieve previous versions of work. There are alternatives like Office 365 / OneDrive, but this wouldn’t probably wouldn’t work since our University accounts only provided the basic tier and we needed to be able to share with the lecturers.
+
+- Git, provided version control, the branching functionality allowed features to be developed separately from the stable codebase, then after being safely implemented could be merged back. The commit history is also useful as it made all committed code still accessible even after being deleted. An alternative could be Mercury, which does have a simpler user interface, git has also become ubiquitous in the industry, and provided a better real-world experience.
+- GitHub offers git as a base, but it adds a lot more functionality that makes software development easier. One feature would be the issue system, as it allowed us to convert our system requirements into a trackable object, where we could comment on it, assign it different statuses so we could see how complete the issue is. This integrates excellently with GitHub projects which allows you to put those issues on boards, so we could visualise how each issue has been progressing, who has been assigned, how old, etc. An alternative could be Trello, which does have the card system and lets you transfer it between boards also, but we decided not to adopt it since GitHub allows a much tighter integration with the code, and being able to reference directly and with some provided assistance is very useful.
+- Google Drive, provided collaborative document editing, this was particularly useful since we often did paired work. Also, the version history is useful for being able to retrieve previous versions of work. There are alternatives like Office 365 / OneDrive, but this wouldn’t probably wouldn’t work since our University accounts only provided the basic tier and we needed to be able to share with the lecturers.
 
 Those tools were great at help for assisting. But for developing the game we also used some other tools to accelerate the progress:
-* LibGDX, provided an easy to use API built on top of openGL and quite cross compatible. We chose to use libgdx since there was a rich amount of tutorials available to beginners and let us get up to speed in a rather short amount of time. A possible substitute that we considered was lwjgl, which is lower level and could offer more functionality but that does come with a lot more learning than what we had time for. So ultimately decided against it due to us wanting to get familiar with what everyone else was using so our skills would be more transferable.
-* GitHub Pages, which allows us to host our own website for a more public view of our project, without the lengthy and hard process of making our own website.
+
+- LibGDX, provided an easy to use API built on top of openGL and quite cross compatible. We chose to use libgdx since there was a rich amount of tutorials available to beginners and let us get up to speed in a rather short amount of time. A possible substitute that we considered was lwjgl, which is lower level and could offer more functionality but that does come with a lot more learning than what we had time for. So ultimately decided against it due to us wanting to get familiar with what everyone else was using so our skills would be more transferable.
+- GitHub Pages, which allows us to host our own website for a more public view of our project, without the lengthy and hard process of making our own website.
 
 ---
 
@@ -62,33 +65,33 @@ Overall, these meetings helped us focus on what needed attention, where we would
 
 ## Systematic plan
 
-![gantt chart](/assets/static/week8.png "Gantt chart")
+![gantt chart](../assets/static/week8.png "Gantt chart")
 
-The plan for the project was to build the game using an agile method approach, allowing us to modify existing elements as we progress through the project. So with our agile approach, we decided to put ourselves on two week sprints. 
-To map our progress we also produced a new gantt chart every two weeks. The one provided here is the final one, but on our website there are multiple available. 
+The plan for the project was to build the game using an agile method approach, allowing us to modify existing elements as we progress through the project. So with our agile approach, we decided to put ourselves on two week sprints.
+To map our progress we also produced a new gantt chart every two weeks. The one provided here is the final one, but on our website there are multiple available.
 
 First two weeks:
-In the first two weeks, starting on 8th October, the key tasks were creating the means of communication within the team, designing the user requirements and deciding which game engine we’re going to use, and getting used to it. 
+In the first two weeks, starting on 8th October, the key tasks were creating the means of communication within the team, designing the user requirements and deciding which game engine we’re going to use, and getting used to it.
 The main focus here was understanding the project, getting to know each other and coming up with ideas for some of the key features of the game.
 
 Third week:
-After these two weeks, we had everything ready to create a rough abstract architecture of the game. This was a very important step, as now we were ready to distribute some tasks between the team members, in order to be able to create small bits of code that fulfill some of the tasks in the abstract architecture. We decided to follow the same tutorial and build some of the requirements we designed last weeks as standalone, small projects. These included a moveable object script, a map rendering script, a UI rendering script and a collision detection script. 
-These small projects were meant to help us understand how we want to build the game and how things work together best. 
-This is also when we created the team’s website, where all the deliverables will be published. 
+After these two weeks, we had everything ready to create a rough abstract architecture of the game. This was a very important step, as now we were ready to distribute some tasks between the team members, in order to be able to create small bits of code that fulfill some of the tasks in the abstract architecture. We decided to follow the same tutorial and build some of the requirements we designed last weeks as standalone, small projects. These included a moveable object script, a map rendering script, a UI rendering script and a collision detection script.
+These small projects were meant to help us understand how we want to build the game and how things work together best.
+This is also when we created the team’s website, where all the deliverables will be published.
 After a week of work we were ready to move to the next step.
 
 Fourth week:
-Starting in the fourth week, we already had a lot of scripts that were working great by themselves, but we now had to focus on putting everything together. 
-Since we were now a lot more experienced with the game engine, we were able to start designing a concrete architecture, based on inheritance and polymorphism, that we thought would fit best with what he had done already. 
+Starting in the fourth week, we already had a lot of scripts that were working great by themselves, but we now had to focus on putting everything together.
+Since we were now a lot more experienced with the game engine, we were able to start designing a concrete architecture, based on inheritance and polymorphism, that we thought would fit best with what he had done already.
 The main priority was designing code that is highly reusable, focusing a lot on simplicity and readability.
 
 Fifth week:
-In the fifth week, the first prototype of the game was ready. We now needed to focus on the documentation aspect of the project, which included the systematic justification, a first draft of the risk assessment and more work on method selection and planning. 
-This is where the agile “SCRUM” approach came in handy, as we were modifying some information based on what we learned since we first drafted it. 
+In the fifth week, the first prototype of the game was ready. We now needed to focus on the documentation aspect of the project, which included the systematic justification, a first draft of the risk assessment and more work on method selection and planning.
+This is where the agile “SCRUM” approach came in handy, as we were modifying some information based on what we learned since we first drafted it.
 Meanwhile, the development of the game continued with adding new features and merging core aspects of the game with UI elements.
 
 Sixth week:
-The sixth week, which corresponds to week seven of the term, was mainly focused on completing the development of the game, as we were planning to have a release with all the mandatory features implemented by the end of this week. 
+The sixth week, which corresponds to week seven of the term, was mainly focused on completing the development of the game, as we were planning to have a release with all the mandatory features implemented by the end of this week.
 On top of that, we were always updating the documentation as necessary
 
 Seventh week:

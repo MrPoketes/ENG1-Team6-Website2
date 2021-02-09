@@ -16,19 +16,18 @@ In addition, we also planned to improve the graphics, aiming to make it look mor
 
 Other miscellaneous things included:
 
-* Sound design
-* AI development
-* Improved HUD
+- Sound design
+- AI development
+- Improved HUD
 
-![gantt chart](/assets/static/week7.png "Gantt chart")
+![gantt chart](../assets/static/week7.png "Gantt chart")
 
-![Collision demo](/assets/static/11-09.gif "Collision demo")
-
+![Collision demo](../assets/static/11-09.gif "Collision demo")
 
 ## Meeting 10 (17/11/2020)
 
-* Caught up on our individual work
-* Assisted in dealing with an implementation issue in choosing UI
+- Caught up on our individual work
+- Assisted in dealing with an implementation issue in choosing UI
 
 ### Attendance
 
@@ -36,9 +35,9 @@ Quentin, Rhys, Dragos, Sam
 
 ## Meeting 11 (19/11/2020)
 
-* Brought everyone up to speed on the current state of the game
-* Planned each member's work on documentation
-* Considered what each team member could do to improve the game
+- Brought everyone up to speed on the current state of the game
+- Planned each member's work on documentation
+- Considered what each team member could do to improve the game
 
 ### Attendance
 

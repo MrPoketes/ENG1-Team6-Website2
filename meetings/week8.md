@@ -14,13 +14,13 @@ Furthermore, we also finalised our gantt chart, where we made sure that progress
 
 Also, we had finished the map design, boat design and the sound design making the game look presentable for a final release.
 
-![gantt chart](/assets/static/week8.png "Gantt chart")
+![gantt chart](../assets/static/week8.png "Gantt chart")
 
 ## Meeting 12 (23/11/2020)
 
-* Worked on an issue with the countdown timer
-* Went over documentation
-* Planned submitting the deliverables
+- Worked on an issue with the countdown timer
+- Went over documentation
+- Planned submitting the deliverables
 
 ### Attendance
 

@@ -6,7 +6,7 @@ parent: Changes
 
 # Architecture
 
-[Deliverable (.pdf)](/assets/deliverables-new/Arch2.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Deliverable (.pdf)](../assets/deliverables-new/Arch2.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 {: .no_toc }
 
@@ -21,22 +21,18 @@ parent: Changes
 
 ---
 
-**Architecture**
-
-**Team 6** Sanjel Sadikaj Adam Hagan Tudor Ciobanu Na Tang Armintas Zadeika Liu Zhang
-
 - We used Lucidchart to represent a state diagram of how the game works and PlantUML to showcase classes that are responsible for the actual boat game logic.
 
 **Abstract architecture diagrams**
 
-![](/assets/static/new/Arch2.001.jpeg)
-![](/assets/static/new/Arch2.002.jpeg)
+![](../assets/static/new/Arch2.001.jpeg)
+![](../assets/static/new/Arch2.002.jpeg)
 
-![](/assets/static/new/Arch2.003.png)
+![](../assets/static/new/Arch2.003.png)
 
 **Concrete architecture diagram**
 
-![](/assets/static/new/Arch2.004.jpeg)
+![](../assets/static/new/Arch2.004.jpeg)
 
 Abstract architecture:
 
