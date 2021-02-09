@@ -64,7 +64,7 @@ Furthermore, we also organised set dates occuring every week, allowing us to def
 
 C)
 
-![](../assets/static/new/plan.png)
+![](../assets/static/new/Plan2.001.png)
 
 The plan for the project was to build the game using an agile method approach, allowing us to modify existing elements as we progress through the project. So with our agile approach, we decided to put ourselves on two week sprints.
 
@@ -131,3 +131,5 @@ The main tools used to complete the project were a continuation of Git,GitHub,Li
 Google Drive and Discord retained a key role in our working organisation and were the main software use for group communication and the aggregation of deliverables.
 
 The main feature of our assessment 2 methods approach was to wherever possible reduce complexity and changes in order to ensure the product was finished within the set time limit with a comfortable and well-functioning pre-established work routine.
+
+![](../assets/static/new/plan.png)
