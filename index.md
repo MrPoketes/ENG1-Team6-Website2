@@ -20,9 +20,9 @@ Individual PDF deliverables are available on each document page. Weekly snapshot
 
 ## Downloads
 
-## [All deliverables for Assessment 1 (.zip)](../assets/deliverables/combined.zip){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Game download (Assessment 1) (.jar)](https://github.com/hardgforgifs/game/releases/download/1.0.3/DragonBoatRacing.v1.0.3.jar){: .btn .fs-5 .mb-4 .mb-md-0 }
+## [All deliverables for Assessment 1 (.zip)](/assets/deliverables/combined.zip){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Game download (Assessment 1) (.jar)](https://github.com/hardgforgifs/game/releases/download/1.0.3/DragonBoatRacing.v1.0.3.jar){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-## [All deliverables for Assessment 2(.zip)](../assets/deliverables-new/Team6-Assessment2.zip){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Game download (Assessment 2) (.jar)](../assets/deliverables-new/game.jar){: .btn .fs-5 .mb-4 .mb-md-0 }
+## [All deliverables for Assessment 2(.zip)](/assets/deliverables-new/Team6-Assessment2.zip){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Game download (Assessment 2) (.jar)](/assets/deliverables-new/game.jar){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## Useful links
 
