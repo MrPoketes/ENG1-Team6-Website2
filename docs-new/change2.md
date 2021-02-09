@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Continuous Report
+title: Change Report
 parent: Changes
 ---
 
