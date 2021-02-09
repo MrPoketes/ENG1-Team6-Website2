@@ -64,7 +64,7 @@ Furthermore, we also organised set dates occuring every week, allowing us to def
 
 C)
 
-![](/assets/static/new/plan.png)
+![](../assets/static/new/plan.png)
 
 The plan for the project was to build the game using an agile method approach, allowing us to modify existing elements as we progress through the project. So with our agile approach, we decided to put ourselves on two week sprints.
 
