@@ -25,7 +25,7 @@ logo: "https://avatars2.githubusercontent.com/u/72558606"
 
 search_enabled: true
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://mrpoketes.github.io/mrpoketes.github.io-ENG1-Team6-Website2/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Footer content
