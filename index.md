@@ -16,11 +16,13 @@ We are attempting to make a game called "York Dragon Boat Racing 2021".
 
 Individual PDF deliverables are available on each document page. Weekly snapshots are available through our meetings.
 
-[Documentation](docs){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Meetings](meetings){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Documentation](docs){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Changes](change){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Meetings](meetings){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## Downloads
 
-## [All deliverables (.zip)](../assets/deliverables/combined.zip){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Game download (.jar)](https://github.com/hardgforgifs/game/releases/download/1.0.3/DragonBoatRacing.v1.0.3.jar){: .btn .fs-5 .mb-4 .mb-md-0 }
+## [All deliverables for Assessment 1 (.zip)](../assets/deliverables/combined.zip){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Game download (Assessment 1) (.jar)](https://github.com/hardgforgifs/game/releases/download/1.0.3/DragonBoatRacing.v1.0.3.jar){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+## [All deliverables for Assessment 2(.zip)](../assets/deliverables-new/deliverables.zip){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Game download (Assessment 2) (.jar)](../assets/deliverables-new/game.jar){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## Useful links
 

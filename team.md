@@ -4,7 +4,7 @@ title: Team
 permalink: /team/
 ---
 
-# Team Members
+# Team Members - Team 10
 
 These are the members working on the project, feel free to either get in touch with our group email listed on the [homepage](/) or reaching out through github.
 
@@ -27,3 +27,17 @@ These are the members working on the project, feel free to either get in touch w
 ## Quentin Rothman
 
 [github](https://github.com/SaltyRex) • [email](qmr500@york.ac.uk) • [discord](https://discordapp.com/users/242929413526650882/)
+
+# Team Members - Team 6
+
+## Armintas Zadeika
+
+## Sajel Sadikaj
+
+## Adam Hagan
+
+## Tudor Ciobanu
+
+## Na Tang
+
+## Liu Zhang
